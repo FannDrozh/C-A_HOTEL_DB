@@ -1,3 +1,4 @@
+![](С&A_HOTEL.drawio.png)
 # Postgress + pgAdmin
 ## How to run
 
